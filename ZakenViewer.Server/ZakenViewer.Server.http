@@ -1,0 +1,6 @@
+@ZakenViewer.Server_HostAddress = http://localhost:5198
+
+GET {{ZakenViewer.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

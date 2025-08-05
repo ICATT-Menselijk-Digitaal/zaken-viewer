@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Run All",
+    "Projects": [
+      {
+        "Path": "zakenviewer.client\\zakenviewer.client.esproj",
+        "Action": "Start",
+        "DebugTarget": "localhost (Chrome)"
+      },
+      {
+        "Path": "ZakenViewer.Server\\ZakenViewer.Server.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      }
+    ]
+  }
+]
