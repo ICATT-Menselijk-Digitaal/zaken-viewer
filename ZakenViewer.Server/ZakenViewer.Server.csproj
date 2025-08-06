@@ -22,6 +22,7 @@
     <ProjectReference Include="..\zakenviewer.client\zakenviewer.client.esproj">
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
+    <ProjectReference Include="..\ZakenViewer.ServiceDefaults\ZakenViewer.ServiceDefaults.csproj" />
   </ItemGroup>
 
 </Project>
